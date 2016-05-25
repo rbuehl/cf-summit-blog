@@ -842,3 +842,33 @@ Security x CF
 
 * How about scaling based on prices? -> custom metrics but where do you get the price from?
 
+[Do More with Your Apps: Unleashing the Power of the Cloud Controller V3 API - Utako Ueda & Daniel Wendorf, Pivotal](https://cfsummit2016.sched.org/event/6ZkB/do-more-with-your-apps-unleashing-the-power-of-the-cloud-controller-v3-api-utako-ueda-daniel-wendorf-pivotal?iframe=yes&w=i:0;&sidebar=yes&bg=no)
+
+* Procfile to spin up multiple processes instead of cf push -c "bin/appA"
+
+* cf copy from dev to production (between spaces)
+
+* Update with less downtime
+
+* Cf rollback <name> (v3 keeps track of last five droplets)
+
+* Tasks
+
+    * cf run my-task "scripts/sent_email.sh"
+
+    * Share env-var and bindings
+
+* Future
+
+    * V3 will be natively baked into CF CLI
+
+    * Zero downtime 
+
+    * Move droplets between different CF foundations
+
+    * Creating processes using the api
+
+* v3 alpha to be released in q3
+
+* #capi -> cloudfoundry.slack.com
+
