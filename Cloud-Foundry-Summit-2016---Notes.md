@@ -838,3 +838,7 @@ Security x CF
 
 * PCF comes with autoscaling, looks like open source can now do that too
 
+* MVP: scaling based on mem
+
+* How about scaling based on prices? -> custom metrics but where do you get the price from?
+
