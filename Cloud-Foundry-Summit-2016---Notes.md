@@ -830,7 +830,7 @@ Security x CF
 
 ![image alt text]({{ site.url }}/public/MUT337qXWbCAc3V8MKowgA_img_55.jpg)
 
-[Auto-Scaling, Watch My Instances Grow and Shrink - Michael Fraenkel and  Bo Yang, IB](https://cfsummit2016.sched.org/event/6Zk9/auto-scaling-watch-my-instances-grow-and-shrink-michael-fraenkel-bo-yang-ibm?iframe=yes&w=i:0;&sidebar=yes&bg=no)M
+#### [Auto-Scaling, Watch My Instances Grow and Shrink - Michael Fraenkel and  Bo Yang, IB](https://cfsummit2016.sched.org/event/6Zk9/auto-scaling-watch-my-instances-grow-and-shrink-michael-fraenkel-bo-yang-ibm?iframe=yes&w=i:0;&sidebar=yes&bg=no)M
 
 * Available as incubator 
 
@@ -842,7 +842,7 @@ Security x CF
 
 * How about scaling based on prices? -> custom metrics but where do you get the price from?
 
-[Do More with Your Apps: Unleashing the Power of the Cloud Controller V3 API - Utako Ueda & Daniel Wendorf, Pivotal](https://cfsummit2016.sched.org/event/6ZkB/do-more-with-your-apps-unleashing-the-power-of-the-cloud-controller-v3-api-utako-ueda-daniel-wendorf-pivotal?iframe=yes&w=i:0;&sidebar=yes&bg=no)
+#### [Do More with Your Apps: Unleashing the Power of the Cloud Controller V3 API - Utako Ueda & Daniel Wendorf, Pivotal](https://cfsummit2016.sched.org/event/6ZkB/do-more-with-your-apps-unleashing-the-power-of-the-cloud-controller-v3-api-utako-ueda-daniel-wendorf-pivotal?iframe=yes&w=i:0;&sidebar=yes&bg=no)
 
 * Procfile to spin up multiple processes instead of cf push -c "bin/appA"
 
@@ -850,7 +850,7 @@ Security x CF
 
 * Update with less downtime
 
-* Cf rollback <name> (v3 keeps track of last five droplets)
+* cf rollback <name> (v3 keeps track of last five droplets)
 
 * Tasks
 
